@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexandroPerez&theme=nord&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### My contribution graph
 
-##### Hey!? Is that snake eating my contributions!? 😱  🐍
+Is that snake eating my contributions!? 😱  🐍
 ![snake gif](https://github.com/AlexandroPerez/AlexandroPerez/blob/output/github-contribution-grid-snake.svg)
 
 <!--
