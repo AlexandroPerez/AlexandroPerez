@@ -1,3 +1,6 @@
+[![Top Langs](https://ore-no-github-readme-stats.vercel.app/api/wakatime?username=alex&api_domain=arges.feralhosting.com/harimakenji/wakapi/&range=last_7_days&layout=compact&custom_title=Last%207%20Days&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <div align="center">
   <h1>👋 Hi there 👋</h1>
   
