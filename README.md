@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### My contribution graph
+
+##### Hey!? Is that snake eating my contributions!? 😱  🐍
+![snake gif](https://github.com/AlexandroPerez/AlexandroPerez/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **AlexandroPerez/AlexandroPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
