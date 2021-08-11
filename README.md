@@ -1,10 +1,7 @@
-[![Top Langs](https://ore-no-github-readme-stats.vercel.app/api/wakatime?username=alex&api_domain=arges.feralhosting.com/harimakenji/wakapi/&range=last_7_days&layout=compact&custom_title=Last%207%20Days&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <div align="center">
   <h1>👋 Hi there 👋</h1>
   
-  <h2>🐶 Let's look at some stats 🕵️</h2>
+  <h2>🐶 Here are some stats 🕵️</h2>
   
   <h3>📊 Github Stats 📊</h3>
   <p>
@@ -30,7 +27,7 @@
     </a>
   </p>
   
-  <h3>🧰 Frequently used languages 🧰</h3>
+  <h3>🛠️ Frequently used languages 🛠️</h3>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats" >
       <img src="https://ore-no-github-readme-stats.vercel.app/api/top-langs/?username=AlexandroPerez&layout=compact&theme=nord&hide_title=true"
