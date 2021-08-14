@@ -11,13 +11,13 @@
     </a>
   </p>
   
-  <h3>🔥 Github Streak Stats 🔥</h3>
+  <!--<h3>🔥 Github Streak Stats 🔥</h3>
   <p>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandroPerez&theme=nord"
            alt="Github Streak Stats" />
     </a>
-  </p>
+  </p>-->
   
   <h3> 📈 Wakapi Coding Stats 📈</h3>
   <p>
