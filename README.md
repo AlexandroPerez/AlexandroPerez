@@ -35,7 +35,7 @@
     </a>
   </p>
   
-  
+  <!--
   <h3>🏆 Github trophies 🏆</h3>
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -43,7 +43,7 @@
          alt="Profile Trophies" />
     </a>
   </p>
-  
+  -->
   <h2>My contribution graph</h3>
   <h4>😱 Is that snake eating my contributions!? 🐍</h4>
   
