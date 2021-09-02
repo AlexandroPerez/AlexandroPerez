@@ -19,13 +19,13 @@
     </a>
   </p>
   
-  <h3> 📈 Wakapi Coding Stats 📈</h3>
+  <!--<h3> 📈 Wakapi Coding Stats 📈</h3>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats" >
       <img src="https://ore-no-github-readme-stats.vercel.app/api/wakatime?username=alex&api_domain=arges.feralhosting.com/harimakenji/wakapi/&range=last_7_days&layout=compact&custom_title=Last%207%20Days&theme=nord"
            alt="Github Stats" />
     </a>
-  </p>
+  </p>-->
   
   <h3>🛠️ Frequently used languages 🛠️</h3>
   <p>
